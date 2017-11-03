@@ -1,5 +1,9 @@
 * Links to slides from PyData Warsaw 2017
 ** Thursday, 19.10.2017
+*** Keynotes
+    +  10:45-11:30 [[https://docs.google.com/presentation/d/e/2PACX-1vR05kpagAbL5qo1QThxwu44TI5SQAws_UFVg3nUAmKp39uNG0xdBjcMA-VyEeqZRGGQtt0CS5h2DMTS/embed?start=false&loop=false&delayms=3000][Towards Interpretable Accountable Models, Katharine Jarmul]]
+       
+       See also this [[https://blog.kjamistan.com/towards-interpretable-reliable-models/][blog post]].
 *** Track 1
     + 13:10-13:40 [[http://sebastiandziadzio.com/talks/pydata/assets/player/KeynoteDHTMLPlayer.html#0][Natural Language Processing for the Impatient, Sebastian Dziadzio]]
     + 15:00-15:30 [[https://github.com/lkobylinski/pydata17-warsaw/raw/master/nlp-pl-challenges.pdf][Natural Language Processing challenges in the context of Polish and other Slavic languages, Łukasz Kobyliński and Michał Wasiluk]]

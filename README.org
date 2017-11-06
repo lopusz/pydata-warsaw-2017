@@ -15,6 +15,8 @@
 *** Track 3
 
 ** Friday, 21.10.2018
+*** Keynotes
+    + 10:45-11:30 [[http://slides.com/camerondavidson-pilon/building-people-analytics][Building People Analytics, Cameron Davidson-Pilon]]
 *** Track 1
     + 12:00-12:30 [[http://talks.marcel.is/pdwc2017][From a model to production like a Pro: Software-engineering Best-Practices, Marcel Krčah]]
     + 15:35-16:05 [[https://speakerdeck.com/picardparis/compute-in-10-minutes-in-the-cloud-rather-than-1-week-on-your-server][Conduct a computational experiment in 10 minutes (instead of 1 week) & process results in real-time, Laurent Picard]]

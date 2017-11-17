@@ -5,7 +5,7 @@
        
        See also this [[https://blog.kjamistan.com/towards-interpretable-reliable-models/][blog post]].
 *** Track 1
-    + 13:10-13:40 [[http://sebastiandziadzio.com/talks/pydata/assets/player/KeynoteDHTMLPlayer.html#0][Natural Language Processing for the Impatient, Sebastian Dziadzio]]
+    + 13:10-13:40 [[http://sebastiandziadzio.com/talks/pydata/pydata.pdf][Natural Language Processing for the Impatient, Sebastian Dziadzio]]
     + 15:00-15:30 [[https://github.com/lkobylinski/pydata17-warsaw/raw/master/nlp-pl-challenges.pdf][Natural Language Processing challenges in the context of Polish and other Slavic languages, Łukasz Kobyliński and Michał Wasiluk]]
     + 17:10-17:40 [[https://www.slideshare.net/lopusz/debugging-machinelearning][Debugging machine learning, Michał Łopuszyński]]
 *** Track 2

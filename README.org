@@ -16,6 +16,9 @@
 
 ** Friday, 21.10.2018
 *** Keynotes
+    + 10:00-10:45 [[https://rare-technologies.com/pydata_warsaw2017.pdf][Winning together: Bridging the gap between academia and industry (Python edition), Radim Řehůřek]]
+    
+      See also this [[https://rare-technologies.com/mummy-effect-bridging-gap-between-academia-industry/][blog post]].
     + 10:45-11:30 [[http://slides.com/camerondavidson-pilon/building-people-analytics][Building People Analytics, Cameron Davidson-Pilon]]
 *** Track 1
     + 12:00-12:30 [[http://talks.marcel.is/pdwc2017][From a model to production like a Pro: Software-engineering Best-Practices, Marcel Krčah]]

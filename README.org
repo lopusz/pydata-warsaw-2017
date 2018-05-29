@@ -26,5 +26,6 @@
 *** Track 2
     + 13:10-13.40 [[https://github.com/JustinShenk/pydata/raw/master/vis_warsaw.pdf][How to visualize neural network parameters and activity, Justin Shenk]]
 *** Track 3
+    + 12:00-12:30 [[https://github.com/datapythonista/odsc-bayesian-ab-testing-talk][Bayesian A/B Testing, Mark Garcia]]
     + 12:35-13:05 [[https://warenlg.github.io/pydata-warsaw-2017/][Analyzing GitHub, how developers change programming languages over time, Waren Long]]
     + 15:00-15:30 [[https://github.com/AeroPython/pydata_warsaw2017_flight_safety/blob/master/slides.ipynb][Analysing flight safety data with Python, Jesús Martos and Alejandro Saez Mollejo]]
